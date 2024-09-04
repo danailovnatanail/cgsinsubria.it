@@ -1,0 +1,30 @@
+baseURL = "https://cgsinsubria.it/"
+languageCode = "it"
+defaultContentLanguage = "it"
+title = "CGS | Consiglio Generale degli Studenti @Uninsubria"
+theme = "hallo"
+disableKinds = ["page", "section", "taxonomy", "term"]
+enableEmoji = true
+
+[Author]
+    name = "Consiglio Generale degli Studenti"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:info@cgsinsubria.it"
+
+    [[params.links]]
+        icon = "instagram"
+        title = "Instagram"
+        url = "https://github.com/"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "link"
+        title = "Website"
+        url = "https://www.uninsubria.it/ateneo/ci-presentiamo/organi-di-ateneo/consiglio-generale-degli-sudenti-cgs"
+      
