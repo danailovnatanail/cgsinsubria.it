@@ -6,7 +6,6 @@ theme = "hallo"
 disableKinds = ["page", "section", "taxonomy", "term"]
 enableEmoji = true
 
-
 [Author]
     name = "Consiglio Generale degli Studenti"
 
