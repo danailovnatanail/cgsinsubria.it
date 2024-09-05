@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "C:/Users/NatanailDanailov/OneDrive - Easyweb/Documenti/GitHub/cgsinsubria.it",
+	"sourceRoot": "C:/Users/Natanail Danailov/Documents/GitHub/cgsinsubria.it",
 	"sources": [
 		"assets/scss/hallo.scss",
 		"assets/scss/hallo/_variables.scss",
